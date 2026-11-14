@@ -9,7 +9,7 @@ public class Oceanchanges {
 	        driver.get("https://www.google.com");
 	        System.out.println("Title: " + driver.getTitle());
 	        System.out.println("URL:" + driver.getCurrentUrl());
-	        System.out.println("moved code to Ocean team");
+	        System.out.println("moved picture to Ocean team");
 	        driver.quit();
 	    }
 }
